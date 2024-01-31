@@ -1,0 +1,13 @@
+body{
+    --first:#4d0000;
+    --second:rgb(150, 148, 147);
+
+}
+
+.bg-primary{
+    background-color: var(--second)!important;
+}
+
+.bg-secondary{
+    background-color: var(--first)!important;
+}
